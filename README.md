@@ -1,2 +1,3 @@
-# bookmarklets
-Just some scripts I've made or modified, now as bookmarklets.
+# :label: Bookmarklets
+Just some scripts I've made or modified, now as bookmarklets.<br>
+Don't expect much here.
