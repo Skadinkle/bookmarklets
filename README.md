@@ -1,3 +1,3 @@
-# :label: Bookmarklets
-Just some scripts I've made or modified, now as bookmarklets.<br>
-Don't expect much here.
+# :label: bookmarklets
+some browser scripts i've made/modified to help with art, video production, web navigation & other projects<br>
+don't expect much here
